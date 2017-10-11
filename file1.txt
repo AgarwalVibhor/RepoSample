@@ -1,1 +1,3 @@
 This is the master file in the master branch.
+
+Some changes have been made in the master file in the develop branch.
